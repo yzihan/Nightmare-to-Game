@@ -1,0 +1,20 @@
+{
+    "id": "cosmo",
+    "clan": "Hua Jiao",
+    "blood_number": "4",
+    "nickname": "River Crossing Pawn",
+    "name": "Ke Zimo",
+    "skills_group": [{
+            "title": "Assault",
+            "description": "During the drawing phase, you can choose to forgo drawing cards and then draw one card from the hand of up to two (at least one) characters."
+        },
+        {
+            "title": "Iron Cavalry",
+            "description": "After designating a character as the target for a [Slash] card, you can make a judgment. If the result is red, this [Slash] cannot be dodged."
+        }
+    ],
+    "card_suit": {
+        "suit": "Club",
+        "number": "J"
+    }
+}

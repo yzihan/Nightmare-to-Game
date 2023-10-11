@@ -1,0 +1,203 @@
+{
+    "skills": [{
+            "title": "Roar",
+            "description": "During your play phase, you can use any number of [Slash] cards."
+        },
+        {
+            "title": "Martial Saint",
+            "description": "If you simultaneously use the red equipment effect of the currently equipped card, you cannot use or play this equipped card as [Slash]."
+        },
+        {
+            "title": "Stargazing",
+            "description": "At the beginning of your turn, you can look at the top X cards of the deck (X is the number of surviving characters, up to a maximum of 5), arrange any number of cards from this set in any order on top of the deck, and place the rest in any order at the bottom of the deck."
+        },
+        {
+            "title": "Empty City",
+            "description": "A locked skill. When you have no hand cards, you cannot be the target of [Slash] or [Duel]."
+        },
+        {
+            "title": "Valiant Heart",
+            "description": "You can use a [Slash] as [Dodge] or [Dodge] as [Slash] when using your hand cards."
+        },
+        {
+            "title": "Horsemanship",
+            "description": "A locked skill. When calculating the distance between you and other characters, it is always reduced by 1."
+        },
+        {
+            "title": "Iron Cavalry",
+            "description": "After targeting a character with [Slash], you can make a judgment. If the result is red, this [Slash] cannot be dodged."
+        },
+        {
+            "title": "Strategist",
+            "description": "Whenever you use a non-delaying tactic card (before it is resolved), you can immediately draw a card."
+        },
+        {
+            "title": "Prodigy",
+            "description": "There is no distance limit when you use any tactic cards."
+        },
+        {
+            "title": "Balance",
+            "description": "During your play phase, you can discard any number of cards and then draw the same number of cards. Can be used only once per round."
+        },
+        {
+            "title": "Ambush",
+            "description": "During your play phase, you can use any of your black cards as [Dismantle Bridge]."
+        },
+        {
+            "title": "Self-Control",
+            "description": "If you haven't used or played any [Slash] cards during your play phase, you can skip the discard phase of this round."
+        },
+        {
+            "title": "Feigned Weakness",
+            "description": "During your play phase, you can lose 1 point of health and then draw two cards. You can use Feigned Weakness multiple times in each round."
+        },
+        {
+            "title": "Valor",
+            "description": "During the drawing phase, you can draw an additional card."
+        },
+        {
+            "title": "Sow Dissent",
+            "description": "During your play phase, you can make another character choose a suit and draw one of your hand cards. If this card doesn't match the chosen suit, you inflict 1 point of damage on that character. Regardless of the result, that character keeps the card. Can be used once per round."
+        },
+        {
+            "title": "Glamour",
+            "description": "During your play phase, you can use any of your diamond cards as [Strategic Withdrawal]."
+        },
+        {
+            "title": "Stray",
+            "description": "When you are the target of a [Slash], you can discard one card and transfer the [Slash] to another character within your attack range (the attacking character cannot be the source of the [Slash])."
+        },
+        {
+            "title": "Modesty",
+            "description": "A locked skill. You cannot be the target of [Steal] or [Strategic Withdrawal]."
+        },
+        {
+            "title": "Link Formation",
+            "description": "Whenever you lose your last hand card, you can immediately draw a card."
+        },
+        {
+            "title": "Marriage",
+            "description": "During your play phase, you can discard two hand cards and select a wounded male character. You and the target character each regain 1 point of health. Can be used once per round."
+        },
+        {
+            "title": "Clever Maiden",
+            "description": "When you lose a card in the equipment area, you can immediately draw two cards."
+        },
+        {
+            "title": "Treachery",
+            "description": "You can immediately gain the card that caused you damage."
+        },
+        {
+            "title": "Feedback",
+            "description": "You can immediately gain a card from the source that caused you damage."
+        },
+        {
+            "title": "Genius",
+            "description": "Before the judgment card of any character takes effect, you can play a hand card of your own to replace it."
+        },
+        {
+            "title": "Ferocity",
+            "description": "Each time you take damage, you can make a judgment. If the result is not a heart, the source must choose to either discard two hand cards or take 1 damage from you."
+        },
+        {
+            "title": "Assault",
+            "description": "During your drawing phase, you can choose to forgo drawing cards and then draw one card from the hand of up to two (at least one) characters."
+        },
+        {
+            "title": "Bare Body",
+            "description": "During your drawing phase, you can draw one less card; if you do so, the damage caused by [Slash] or [Duel] (when you are the source of damage) in the current round is increased by 1."
+        },
+        {
+            "title": "Jealousy",
+            "description": "When your judgment card takes effect, you can immediately gain it."
+        },
+        {
+            "title": "Stratagem",
+            "description": "Each time you take 1 point of damage, you can draw two cards and give one card to any character, and then give the other card to another character."
+        },
+        {
+            "title": "Allure",
+            "description": "You can use your black hand cards as [Dodge] cards (or play them as [Dodge] cards)."
+        },
+        {
+            "title": "Enchantress",
+            "description": "At the beginning of your turn, you can make a judgment: if it's a black card, immediately gain it and you can continue using Enchantress – repeat this process until a red card is revealed or you choose to stop."
+        },
+        {
+            "title": "First Aid",
+            "description": "Outside of your turn, you can use any red card as [Peach]."
+        },
+        {
+            "title": "Green Basket",
+            "description": "During your play phase, you can actively discard one hand card to make a target character regain 1 point of health. Can be used once per round."
+        },
+        {
+            "title": "Peerless",
+            "description": "A locked skill. When you use [Slash], the target character must use two consecutive [Dodge] cards to avoid it; when you engage in a [Duel] with another character, they must play two [Slash] cards consecutively."
+        },
+        {
+            "title": "Instigate",
+            "description": "During your play phase, you can discard one card and choose two male characters. If you do so, it is considered that one male character uses [Duel] against the other. Additionally, this [Duel] cannot be responded to with [Nullification]. Can be used once per round."
+        },
+        {
+            "title": "Resist",
+            "description": "At the end of your turn, you can draw three cards. If you do, skip your next turn."
+        },
+        {
+            "title": "Assault",
+            "description": "During your play phase, you can decrease your health by 1 or discard one weapon card to inflict 1 damage on a character within your attack range. Can be used once per round."
+        },
+        {
+            "title": "Drive Tiger",
+            "description": "During your play phase, you can compete in a showdown with a character who has more health than you. If you win, the target character inflicts 1 damage on another character of your choice within their attack range (this cannot be the character being challenged). If you lose, they inflict 1 damage on you. Can be used once per round."
+        },
+        {
+            "title": "Thrift",
+            "description": "Each time you take 1 point of damage, you can choose another character and replenish their hand cards to their maximum limit (up to 5 cards)."
+        },
+        {
+            "title": "Resilience",
+            "description": "A locked skill. When you are not equipped with any armor, black [Slash] cards are ineffective against you."
+        },
+        {
+            "title": "Ferocious",
+            "description": "A locked skill. Anytime you cause 1 damage to a character within a 1-space range, you regain 1 health point."
+        },
+        {
+            "title": "Eight Diagram Formation",
+            "description": "A locked skill. When you are not equipped with any armor, you are always considered to be equipped with [Eight Trigrams Formation]."
+        },
+        {
+            "title": "See Through",
+            "description": "You can use any of your black hand cards as [Nullification]."
+        },
+        {
+            "title": "Thunder Strike",
+            "description": "Each time you use or play a [Dodge] card (before it resolves), you can make another character make a judgment. If it's a [Spades], you inflict 2 points of lightning damage on that character."
+        },
+        {
+            "title": "Sorcery",
+            "description": "Before any character's judgment card takes effect, you can replace it with one of your own [Spades] or [Clubs] cards."
+        },
+        {
+            "title": "Bold Advance",
+            "description": "When the [Slash] you used is negated by a [Dodge], you can discard one card from the other character."
+        },
+        {
+            "title": "Rampage",
+            "description": "During your play phase, you can use any two hand cards of the same suit as [Archery Duel]."
+        },
+        {
+            "title": "Double Heroes",
+            "description": "During your drawing phase, you can choose to forgo drawing cards and make a judgment: you gain the judgment card and can use any of your hand cards that are a different color as [Duel] in this round."
+        },
+        {
+            "title": "Loyalty",
+            "description": "A locked skill. As long as your health is greater than 2 points, when other characters calculate the distance to you, it's always reduced by 1; as long as your health is 2 points or less, other characters calculate the distance to you as increased by 1."
+        },
+        {
+            "title": "Moonlit",
+            "description": "At the end of your turn, you can draw one card."
+        }
+    ]
+}
