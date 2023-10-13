@@ -1,0 +1,246 @@
+/* script-page */
+.scriptpage{
+    padding: 0px 40px;
+    height: 100%;
+
+    /* display: grid;
+    grid-template-rows: auto 1fr auto;
+    grid-template-areas: "scirpt" "history" "next"; */
+}
+
+.scripts{
+    display: flex;
+    flex-direction: row;
+    gap:20px
+}
+
+/* .sp-top{
+    grid-area: "script";
+}
+.sp-bottom{
+    grid-area: "history";
+}
+.script-next-button{
+    grid-area: "next";
+} */
+
+/* script */
+.script{
+    width: 284px;
+    height: 234px;
+    padding: 20px;
+    background-color: #282828;
+    border-radius: 24px;
+    
+}
+
+
+
+.script-bookmark{
+    font-size: 32px;
+    margin-top: -102px;
+    margin-left: 243px;
+    width: 32px;
+    height: 32px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 24px;
+    color: #161616;
+    background-color: #ffffff;
+    position: relative;
+    z-index: 2;
+
+}
+
+.script-background{
+    width: 283px;
+    height: 112px;
+    border-radius: 24px;
+    position: relative;
+    z-index: 1;
+}
+
+.script-clock,
+.script-star{
+    font-size: 16px;
+    top: 298px;
+    left: 144px;
+    width: 16px;
+    height: 16px;
+    color: #ffffff;  
+}
+
+.script-profile{
+    width: 40px;
+    height: 40px;
+    border-radius: 100000px;
+}
+
+.script-type{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap:20px;
+
+    width: 175px;
+    height: 48px;
+    margin-top: 45px;
+    margin-left: 10px;
+
+    background-color: #161616;
+    border-radius: 24px;
+    border: 1px solid #282828;
+    box-sizing: border-box;
+
+    position: relative;
+    z-index: 2;
+}
+
+.script-username{
+    color: #ffffff;
+    font-size: 18px;
+    text-align: center;
+}
+
+.script-name{
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 22px;
+    margin-top: 20px;
+}
+
+.script-info{
+    display: flex;
+    flex-direction: row;
+    gap:50px;
+    margin-top: 20px;
+}
+
+.script-info>div{
+    display: flex;
+    flex-direction: row;
+    gap:10px;
+}
+
+.script-button{
+    width: 87px;
+    height: 36px;
+    padding: 0px 8px;
+    border: 0;
+    box-sizing: border-box;
+    border-radius: 24px;
+    background-color: #c8edfd;
+    color: #000000;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 22px;
+    outline: none;
+
+    position: relative;
+    top:-20px;
+    left:200px;
+
+}
+
+/* history */
+.histories{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+}
+
+.history{
+    width: 584px;
+    height: 154px;
+    background-color: #282828;
+    border-radius: 24px;
+    padding-top: 10px;
+    padding-left: 10px;
+    display: flex;
+    flex-direction: row;
+}
+
+.history-background{
+    width: 176px;
+    height: 138px;
+    border-radius: 24px;
+}
+
+.history-bookmark{
+    font-size: 32px;
+    width: 32px;
+    height: 32px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 24px;
+    color: #000000;
+    background-color: #c8edfd;
+
+    position: relative;
+    margin-top: 10px;
+    margin-left: 360px;
+}
+
+.history-username{
+    color: #ffffff;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 24px;
+
+    position: relative;
+    margin-top: -20px;
+    margin-left: 20px;
+}
+
+.history-role{
+    color: #ffffff;
+    font-size: 16px;
+    line-height: 20px;
+
+    position: relative;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+
+.history-progress-bar{
+    width: 352px;
+    height: 8px;
+    background-color: #3a3a3a;
+    border-radius: 2px;
+
+    position: relative;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+
+.history-progress{
+    color: #ffffff;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 18px;
+
+
+    position: relative;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+
+.script-next-button{
+    width: 308px;
+    height: 40px;
+    padding: 0px 8px;
+    border: 0;
+    box-sizing: border-box;
+    border-radius: 24px;
+    background-color: #c8edfd;
+    color: #000000;
+    font-size: 16px;
+    font-family: "Source Sans Pro";
+    font-weight: 600;
+    line-height: 20px;
+    outline: none;
+    
+    margin: 10px 200px 50px auto;
+}
